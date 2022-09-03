@@ -34,8 +34,6 @@ class ViewController: UIViewController {
         return button
     }()
     
-    //small changes
-    
     func StockApiCall(_ callback: @escaping (String) -> ()) {
         
         let headers = [
