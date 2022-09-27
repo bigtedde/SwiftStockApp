@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9F2A4AE228C3D7A600995DAD /* Stock API.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F2A4AE128C3D7A600995DAD /* Stock API.swift */; };
 		9F60ED9128C184A700D883A8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F60ED9028C184A700D883A8 /* AppDelegate.swift */; };
 		9F60ED9328C184A700D883A8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F60ED9228C184A700D883A8 /* SceneDelegate.swift */; };
 		9F60ED9528C184A700D883A8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F60ED9428C184A700D883A8 /* ViewController.swift */; };
@@ -36,7 +35,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		9F2A4AE128C3D7A600995DAD /* Stock API.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Stock API.swift"; sourceTree = "<group>"; };
 		9F60ED8D28C184A700D883A8 /* StockApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StockApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F60ED9028C184A700D883A8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9F60ED9228C184A700D883A8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -105,7 +103,6 @@
 				9F60ED9628C184A700D883A8 /* Main.storyboard */,
 				9F60ED9928C184AA00D883A8 /* Assets.xcassets */,
 				9F60ED9E28C184AA00D883A8 /* Info.plist */,
-				9F2A4AE128C3D7A600995DAD /* Stock API.swift */,
 			);
 			path = StockApp;
 			sourceTree = "<group>";
@@ -257,7 +254,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9F2A4AE228C3D7A600995DAD /* Stock API.swift in Sources */,
 				9F60ED9528C184A700D883A8 /* ViewController.swift in Sources */,
 				9F60ED9128C184A700D883A8 /* AppDelegate.swift in Sources */,
 				9F60ED9328C184A700D883A8 /* SceneDelegate.swift in Sources */,
