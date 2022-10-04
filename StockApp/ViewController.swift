@@ -202,7 +202,6 @@ class ViewController: UIViewController {
         return dataDict
     }
     
-    
     //Gets the most recent ticker the user requested
     func getTicker() -> String {
         return self.ticker
